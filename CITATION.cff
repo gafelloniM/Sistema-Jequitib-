@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Se você utilizar este software em trabalhos acadêmicos ou relatórios técnicos, por favor, cite-o conforme abaixo."
+title: "Sistema Jequitibá - Sistema de Gestão Ambiental (SGA)"
+version: 1.0.1
+doi: "10.5281/zenodo.21498029"
+date-released: 2026-07-22
+authors:
+  - family-names: "Martins do Rosário"
+    given-names: "Gabriel Feloni"
+  - family-names: "Raimundo de Barros"
+    given-names: "Daiane"
+  - family-names: "Caracho"
+    given-names: "Rafael"
