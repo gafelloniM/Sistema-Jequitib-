@@ -1,4 +1,6 @@
 # Sistema Jequitibá - Sistema de Gestão Ambiental (SGA) 🌳
+[![DOI](https://zenodo.org/badge/1309079055.svg)](https://doi.org/10.5281/zenodo.21498029)
+
 
 O **Sistema Jequitibá** é uma aplicação analítica e espacial desenvolvida em R/Shiny para otimizar, automatizar e auditar processos de licenciamento ambiental. O foco principal da ferramenta é a gestão de inventários florestais georreferenciados e o cálculo automatizado de compensação de passivos, operando em estrita conformidade com a **Resolução SEMIL nº 02/2024** do Estado de São Paulo.
 
